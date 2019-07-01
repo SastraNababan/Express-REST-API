@@ -17,5 +17,5 @@ server.listen(port, () => logger.info(`server started on port ${port} (${env})`)
 // * Exports express
 // * @public
 // */
-export default server;
+// export default server;
 
